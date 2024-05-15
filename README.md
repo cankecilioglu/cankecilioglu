@@ -13,9 +13,12 @@ Participated in global and local hackathons, including ETHGlobal Scaling Ethereu
 
 🏆 Achievements
 
-Google Project Management Certificate
-Unity Developer Certificate
-Freelance Web Development Projects
+Google Project Management Certificate,
+
+Unity Developer Certificate,
+
+Freelance Web Development Projects,
+
 Hackathon Success: ETHGlobal Scaling Ethereum and Frameworks Hackathons
 
 ⚽ Hobbies and Interests
