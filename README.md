@@ -5,10 +5,14 @@ I am Can Keçilioğlu, a versatile software developer with a broad range of expe
 
 👨‍💻 Experience and Projects
 
-Frontend Development: HTML, CSS, JavaScript
-Game Development: Unity
-Robotics Development: ROS2
-Blockchain Development: Solidity, TypeScript
+Frontend Development: HTML, CSS, JavaScript, React;
+
+Game Development: Unity, C#;
+
+Robotics Development: ROS2, Python;
+
+Blockchain Development: Solidity, TypeScript;
+
 Participated in global and local hackathons, including ETHGlobal Scaling Ethereum and Frameworks Hackathons, where I delivered successful projects.
 
 🏆 Achievements
