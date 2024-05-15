@@ -21,10 +21,6 @@ Hackathon Success: ETHGlobal Scaling Ethereum and Frameworks Hackathons
 ⚽ Hobbies and Interests
 I am a sports enthusiast who loves both participating in and following various sports. Besides my professional work, I also enjoy experimenting with Blender for 3D modeling and working on basic projects with Solidity and TypeScript.
 
-🔗 Links
-
-Twitter
-LinkedIn
 
 Feel free to connect with me and check out my projects. I am always excited to collaborate and learn from the community!
 
