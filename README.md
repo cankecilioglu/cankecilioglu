@@ -1,7 +1,7 @@
 ### Hi there!
 
 🚀 About Me
-I am Can Keçilioğlu, a versatile software developer with a broad range of experience across different areas of technology. I started my journey as a Frontend Developer, working with HTML, CSS, and JavaScript, before moving into game development with Unity. Later, I explored the world of robotics with ROS2. Currently, I am passionate about blockchain technology and am actively developing projects in this exciting field. My journey is driven by a continuous desire to learn and evolve, and I am thrilled to contribute to the blockchain ecosystem.
+I am Can Keçilioğlu, a software developer with a broad range of experience across different areas of technology. I started my journey as a Frontend Developer, working with HTML, CSS, and JavaScript, before moving into game development with Unity. Later, I explored the world of robotics with ROS2. Currently, I am passionate about blockchain technology and am actively developing projects in this exciting field. My journey is driven by a continuous desire to learn and evolve, and I am thrilled to contribute to the blockchain ecosystem.
 
 👨‍💻 Experience and Projects
 
