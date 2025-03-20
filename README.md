@@ -4,4 +4,4 @@ Previously, I gained experience in frontend development (HTML, CSS, JavaScript, 
 
 I’m always open to collaboration and learning from the community. Feel free to connect and check out my work! 🚀  
 
-[fhjf]
+https://www.linkedin.com/in/can-kecilioglu
